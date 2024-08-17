@@ -3,6 +3,7 @@ First Name: Datu Ali
 Middle Name: Gamol
 Age: 20
 Gender: Male
-Birthdate: August 6, 2004
 Address: Brgy. Antipolo Del Sur, Lipa City
+Email Address: datzbuisann@gmail.com
+Birthdate: August 6, 2004
 Birthplace: Tanauan City, Batangas
