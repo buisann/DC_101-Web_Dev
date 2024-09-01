@@ -11,7 +11,7 @@
         <h1 style="font-size: 2.5em; margin-bottom: 20px; color: #4a4a4a;">My Activities</h1>
         <p style="font-size: 1.2em; color: #555; margin-bottom: 30px;">Explore my work by clicking on the buttons below:</p>
         <div style="display: flex; flex-direction: column; gap: 15px;">
-            <a href="song-lyrics.html" style="text-decoration: none; color: #fff; background-color: #6a82fb; padding: 15px; border-radius: 30px; font-size: 1.2em;">Song Lyrics</a>
+            <a href="song_lyrics.html" style="text-decoration: none; color: #fff; background-color: #6a82fb; padding: 15px; border-radius: 30px; font-size: 1.2em;">Song Lyrics</a>
             <a href="bio.html" style="text-decoration: none; color: #fff; background-color: #6a82fb; padding: 15px; border-radius: 30px; font-size: 1.2em;">Biography</a>
         </div>
     </div>
